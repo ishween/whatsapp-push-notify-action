@@ -37,7 +37,6 @@ jobs:
 
 # Whatsapp Push Notifier Output
 
-Screenshot of push notification in whatsapp.
 ![whatsapp-push-notify-screenshot](https://github.com/ishween/whatsapp-push-notify-action/blob/master/whatsapp-push-notify.png)
 
 ## Author

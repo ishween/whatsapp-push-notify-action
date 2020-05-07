@@ -8,7 +8,7 @@
 
 > A github action which sends a Whatsapp message when code is pushed to a repository.
 
-### 🏠 [Homepage](https://github.com/ishween/whatsapp-push-notify-action)
+### :house_with_garden: [Homepage](https://github.com/ishween/whatsapp-push-notify-action)
 
 
 ### Example Workflow
@@ -41,13 +41,13 @@ jobs:
 
 ## Author
 
-👤 **Ishween Kaur**
+:woman_technologist: **Ishween Kaur**
 
 * Github: [@ishween](https://github.com/ishween)
 
 ## Show your support
 
-Give a ⭐️ if this project helped you!
+Give a :star2: if this project helped you!
 
 ## 📝 License
 

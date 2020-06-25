@@ -10,8 +10,12 @@
 
 ### :house_with_garden: [Homepage](https://github.com/ishween/whatsapp-push-notify-action)
 
-
-### Example Workflow
+### Usage
+1. Create account in twilio [here](https://www.twilio.com/).  
+2. From your twilio dashboard fetch Account Sid and Auth Token.  
+3. To encrypt them, create new secrets in your repository named ```account_sid, auth_token, to_whatsapp_no``` and give it's value.  
+4. Create a ```.github/workflows/whatsapp-push-notify-action.yml```.  
+5. Add the following properties to ```whatsapp-push-notify-action.yml``` file   
 
 ```name: When a push occurs in the master branch, a private message is sent on the Whatsapp.
 on: [push]

@@ -11,10 +11,3 @@ jobs:
           account_sid: ${{ secrets.account_sid }}
           auth_token: ${{ secrets.auth_token }}
           to_whatsapp_no: ${{ secrets.to_whatsapp_no }}
-
-
-        uses: ishween/whatsapp-push-notify-action@master
-      
-      - name : Run
-        run: |
-          echo 'Start!'

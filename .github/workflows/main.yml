@@ -6,6 +6,7 @@ jobs:
     steps:
       - uses: actions/checkout@master
       - name: whatsapp-notify
+        run: echo 'Start!'
         env:
           account_sid: ${{ secrets.account_sid }}
           auth_token: ${{ secrets.auth_token }}
